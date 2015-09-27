@@ -1,0 +1,42 @@
+[
+  {
+    "title": "First Book",
+    "author": "author_01",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Second Book",
+    "author": "author_02",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "Matrix",
+    "author": "author_01",
+    "genre": "Historical"
+  },
+  {
+    "title": "Star Wars",
+    "author": "author_03",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "Some writings",
+    "author": "author_04",
+    "genre": "Romance"
+  },
+  {
+    "title": "The thing",
+    "author": "author_05",
+    "genre": "Horror"
+  },
+  {
+    "title": "My new book",
+    "author": "me",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "My new book2",
+    "author": "me",
+    "genre": "Fiction"
+  }
+]

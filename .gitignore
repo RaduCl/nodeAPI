@@ -1,0 +1,7 @@
+#webstorm ide folder#
+#####################
+.idea
+
+#node-packages#
+###############
+node_modules
