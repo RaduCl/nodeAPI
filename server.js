@@ -2,6 +2,9 @@ var express = require('express');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 
+var https = require('https');
+https.globalAgent.maxSockets = Infinity;
+
 //db is the connection object to the mongoDB
 var db = mongoose.connect('mongodb://localhost/bookAPI');
 var Book = require('./models/bookModel');
